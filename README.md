@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/SUPERNOVA242004/SUPERNOVA242004/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4">
-    <img src="https://github.com/negativenagesh/negativenagesh/blob/main/ezgif-1721408974236.gif" alt="Click to see animation!" width="40%" />
+    <img src="https://github.com/SUPERNOVA242004/SUPERNOVA242004/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4" alt="Click to see animation!" width="40%" />
   </a>
 </p>
 
