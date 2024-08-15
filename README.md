@@ -8,11 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=negativenagesh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 I’m currently working as a Summer intern @Vizzhy [@Vizzhy, Bengaluru](https://www.linkedin.com/company/vizzhy)
-- 🧑‍🎓 B.Tech Comp.Science (hons) Data Science [Vidyashilp University](https://vidyashilp.edu.in/)
-- 🧠 Check my first and last blog [Medium](https://medium.com/@gaonkarsub)
-- 💬 Ask me about **anything, coz I use ֎ ChatGPT**
-- 📫 Reach me **[gaonkarsub@gmail.com](mailto:gaonkarsub@gmail.com)**
 
 <p align="center">
   <a href="https://github.com/SUPERNOVA242004/SUPERNOVA242004/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4">
@@ -20,13 +15,7 @@
   </a>
 </p>
 
-<h3 align="center">Get in Touch Before My Code Compiles</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/subrahmanya-gaonkar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="https://instagram.com/subrahmanya_gaonkar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
-  <a href="https://kaggle.com/subrahmanya090" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" /></a>
-  <a href="https://medium.com/@gaonkarsub" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="40" /></a>
-</p>
+
 
 <h3 align="center">💻 Tech Stack:</h3>
 <div align="center">
@@ -48,11 +37,7 @@
 
 </div>
 
-<div align="center">
-  <h4 align="left">📊 GitHub Stats:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=negativenagesh&theme=calm_pink&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=negativenagesh&theme=calm_pink&hide_border=false" alt="GitHub Streak" />
-</div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=negativenagesh&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
